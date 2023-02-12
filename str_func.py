@@ -6,3 +6,5 @@ def f_upper(string: str):
 def f_title(string: str):
     """Делает заглавными первые буквы каждого слова в строке, поступившей на вход функции"""
     return string.title()
+
+# тут был баг )))
